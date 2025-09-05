@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 """
 Script de monitoreo de logs - log_monitor.py
-Empresa Dharma - Área de Automatización y Seguridad Informática
 
 Propósito: Automatizar el análisis de archivos de log para detectar 
           eventos relacionados con comandos sudo y generar reportes
-Autor: Equipo de Seguridad Informática
-Fecha: 2025
 """
 
 import os
